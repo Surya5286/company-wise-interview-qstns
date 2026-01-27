@@ -1,2 +1,2 @@
-# dsa-interview-qstns
-interview-prep-dsa-questions
+# company-wise-interview-qstns
+interview-prep per company specific with frequently asked DSA and LLD Questions.
